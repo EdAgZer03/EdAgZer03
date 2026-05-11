@@ -41,19 +41,19 @@ Me gusta aprender, experimentar y construir soluciones que conecten el mundo ope
 
 ### 📶 Análisis Estadístico de Tarifas Telefónicas  
 Comparación de planes, pruebas de hipótesis y visualizaciones para detectar oportunidades comerciales.  
-🔗 **Repositorio:** *AQUÍ VA EL LINK AL REPO*
+🔗 **Repositorio:** *[(https://github.com/EdAgZer03/Analisis_de_tarifas_telefonicas)]*
 
 ---
 
 ### 🎮 Análisis Exploratorio de Ventas de Videojuegos  
 EDA, segmentación y análisis multivariable para priorizar lanzamientos y entender patrones de mercado.  
-🔗 **Repositorio:** *AQUÍ VA EL LINK AL REPO*
+🔗 **Repositorio:** *https://github.com/EdAgZer03/Analisis_Ventas_Videojuegos*
 
 ---
 
 ### 🌐 App Streamlit — Visualización Dinámica  
 Aplicación interactiva para explorar datos mediante filtros y gráficos dinámicos.  
-🔗 **Repositorio:** *AQUÍ VA EL LINK AL REPO*
+🔗 **Repositorio:** *https://github.com/EdAgZer03/App_Streamlit_visualizacion_dinamica_de_datos*
 
 ---
 
