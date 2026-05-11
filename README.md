@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1F7Vuxv3BrFjzUOF0Rv0FN0DX_305LW0n/view?usp=drive_link" alt="Banner de Eduardo Aguilar" width="100%">
+  <img src="https://github.com/EdAgZer03/EdAgZer03/blob/main/Banner_Github_README.png" alt="Banner de Eduardo Aguilar" width="100%">
 </p>
 
 <h1 align="center">👋 Hola, soy Eduardo Aguilar</h1>
