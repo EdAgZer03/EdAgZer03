@@ -66,7 +66,7 @@ Aplicación interactiva para explorar datos mediante filtros y gráficos dinámi
 
 <p align="left">
 
-<a href="linkedin.com/in/luis-eduardo-aguilar-castellanos-data-scientist" target="_blank">
+<a href="https://www.linkedin.com/in/luis-eduardo-aguilar-castellanos-data-scientist/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
